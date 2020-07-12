@@ -1,1 +1,3 @@
-DeepLearning
+Recurrent Neural Network
+
+Architecture: 

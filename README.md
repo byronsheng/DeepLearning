@@ -8,6 +8,8 @@
    -
 
 
-2. 
+2. Layer of the Neural Networks
+
+3. Loss 
 
 
